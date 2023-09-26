@@ -39,7 +39,3 @@ In Unity, entities within the game are termed "GameObjects." These can be equipp
 The lab offers examples to guide users. In one setup, "sockets" allow users to position optical devices. This setup demonstrates the journey of horizontally polarized light to circular polarization, with each step providing a quantum perspective.
 
 QuPid's VR lab is a modest attempt to bridge the gap between light polarization and qubits. The lab can elucidate single qubit phenomena, drawing parallels with foundational quantum concepts. The potential inclusion of a \( \text{CNOT} \) gate could further expand the quantum explorations.
-
----
-
-*Note: The "Figure 2" mentioned in the description is assumed to be included in the actual README.md file.*
