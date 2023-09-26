@@ -18,7 +18,7 @@ Developed with the Unity XR Interaction Toolkit, the program is designed to be c
 
 ## Development Details
 
-- **Development Environment**: Unity Game Development Platform
+- **Development Environment**: Unity Game Development Platform (Editor version 2019.3.8f1)
 - **SDKs Used**: Unity XR Interaction Toolkit, CSML (C# Matrix Library)
 - **Solution**: Optical devices were created as in-game objects to facilitate light polarization experiments.
 
