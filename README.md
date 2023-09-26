@@ -1,5 +1,9 @@
 # QuPid: A VR Approach to Understanding Qubits
 
+**Personal Project by Yejun Jang**
+
+Repository for the QuPid project, a quantum optical computing simulation designed to elucidate the principles of qubits and light polarization in a virtual environment, leveraging recursive algorithms, Unity XR Interaction Toolkit and CSML (C# Matrix Library).
+
 ## Introduction
 
 QuPid is a project aimed at simplifying the understanding of Qubits, the basic unit of quantum information, through a Virtual Reality (VR) lab experience. By utilizing light polarization, this VR lab offers a more hands-on approach to the quantum realm.
