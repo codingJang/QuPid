@@ -37,8 +37,8 @@ Developed with the Unity XR Interaction Toolkit, the program is designed to be c
 
 ## Additional Description
 
-In Unity, entities within the game are termed "GameObjects." These can be equipped with "Components" for added functionalities. Custom components, scripted in C#, were used to give each GameObject its optical properties. An algorithm, inspired by recursive functions, was developed to simulate light behavior in the lab.
+In Unity, entities within the game are termed "GameObjects." These can be equipped with "Components" for added functionalities. Custom components, scripted in C#, were used to give each GameObject its optical properties. An algorithm, inspired by recursive functions, was developed to simulate light behavior in the lab. "Sockets" allow users to position optical devices.
 
-The lab offers examples to guide users. In one setup, "sockets" allow users to position optical devices. This setup demonstrates the journey of horizontally polarized light to circular polarization, with each step providing a quantum perspective.
+The lab offers examples to guide users. One setup demonstrates the transformation of horizontally polarized photons $\ket{0}$ to circularly polarized photons $\frac{1}{\sqrt{2}} \ket{0} + \frac{i}{\sqrt{2}} \ket{1}$, with each step providing a quantum perspective.
 
 QuPid's VR lab is a modest attempt to bridge the gap between light polarization and qubits. The lab can elucidate single qubit phenomena, drawing parallels with foundational quantum concepts. The potential inclusion of a $\text{CNOT}$ gate could further expand the quantum explorations.
